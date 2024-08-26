@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|c:\\users\\nacho\\source\\repos\\interfaces practica 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|c:\\users\\nacho\\source\\repos\\interfaces practica 2\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|solutionrelative:pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|c:\\users\\nacho\\source\\repos\\interfaces practica 2\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|c:\\users\\nacho\\source\\repos\\interfaces practica 2\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|solutionrelative:suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|c:\\users\\nacho\\source\\repos\\interfaces practica 2\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798FCDAD-6CD3-44A0-A10B-9926F2144607}|Interfaces Practica 2.csproj|solutionrelative:iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\IPrecio.cs",
+              "RelativeDocumentMoniker": "IPrecio.cs",
+              "ToolTip": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\IPrecio.cs",
+              "RelativeToolTip": "IPrecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:57:55.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Suelto.cs",
+              "RelativeDocumentMoniker": "Suelto.cs",
+              "ToolTip": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Suelto.cs",
+              "RelativeToolTip": "Suelto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:56:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:55:21.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Pack.cs",
+              "RelativeDocumentMoniker": "Pack.cs",
+              "ToolTip": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Pack.cs",
+              "RelativeToolTip": "Pack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:53:00.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nacho\\source\\repos\\Interfaces Practica 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:42:35.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\nacho\source\repos\Interfaces Practica 2\bin\Debug\net8.0\Interfaces Practica 2.exe
+C:\Users\nacho\source\repos\Interfaces Practica 2\bin\Debug\net8.0\Interfaces Practica 2.deps.json
+C:\Users\nacho\source\repos\Interfaces Practica 2\bin\Debug\net8.0\Interfaces Practica 2.runtimeconfig.json
+C:\Users\nacho\source\repos\Interfaces Practica 2\bin\Debug\net8.0\Interfaces Practica 2.dll
+C:\Users\nacho\source\repos\Interfaces Practica 2\bin\Debug\net8.0\Interfaces Practica 2.pdb
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.AssemblyInfoInputs.cache
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.AssemblyInfo.cs
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.csproj.CoreCompileInputs.cache
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.dll
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\refint\Interfaces Practica 2.dll
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.pdb
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\Interfaces Practica 2.genruntimeconfig.cache
+C:\Users\nacho\source\repos\Interfaces Practica 2\obj\Debug\net8.0\ref\Interfaces Practica 2.dll
